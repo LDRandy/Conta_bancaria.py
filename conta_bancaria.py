@@ -6,12 +6,7 @@ init(autoreset=True)
 
 ######################################################
 
-# class Dinheiro_fisico:
-#      def __init__(self, saldofisico):
-#           self.saldofisico = saldofisico
-#           self.saldofisico = 0
-          
-     
+
 class Extrato_conta:
 
      lista = []
